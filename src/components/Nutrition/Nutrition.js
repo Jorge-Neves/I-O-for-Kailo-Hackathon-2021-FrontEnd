@@ -6,7 +6,7 @@ function Nutrition() {
     return(
         <>
         <Fade left>
-        <div>
+        {/* <div>
             <img src="/menu1.jpg" alt="nutrition dog" className="PositionAbsolute" />
         </div>
         <div>
@@ -20,9 +20,8 @@ function Nutrition() {
         </div>
         <div>
             <img src="/menu1.jpg" alt="nutrition dog" className="PositionAbsolute5" />
-        </div>
-        </Fade>
-        <Fade left>
+        </div> */}
+       
         <div className="nutrition-c">
             
                 <img src="/nutrition.svg" alt="nutrition dog" width="inherit"/>
